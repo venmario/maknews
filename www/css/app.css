@@ -1,0 +1,163 @@
+/* Your app custom styles here */
+.position-relative {
+  position: relative !important;
+}
+
+.position-absolute {
+  position: absolute !important;
+}
+
+.position-fixed {
+  position: fixed !important;
+}
+
+.rounded {
+  border-radius: 0.25rem !important;
+}
+
+.rounded-0 {
+  border-radius: 0 !important;
+}
+
+.rounded-1 {
+  border-radius: 0.2rem !important;
+}
+
+.rounded-2 {
+  border-radius: 0.25rem !important;
+}
+
+.rounded-3 {
+  border-radius: 0.3rem !important;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+.rounded-pill {
+  border-radius: 50rem !important;
+}
+
+.rounded-top {
+  border-top-left-radius: 0.25rem !important;
+  border-top-right-radius: 0.25rem !important;
+}
+
+.rounded-end {
+  border-top-right-radius: 0.25rem !important;
+  border-bottom-right-radius: 0.25rem !important;
+}
+
+.rounded-bottom {
+  border-bottom-right-radius: 0.25rem !important;
+  border-bottom-left-radius: 0.25rem !important;
+}
+
+.rounded-start {
+  border-bottom-left-radius: 0.25rem !important;
+  border-top-left-radius: 0.25rem !important;
+}
+
+.bg-secondary {
+  background-color: #ddd;
+}
+
+.demo-facebook-card .card-header {
+  display: block;
+  padding: 10px;
+}
+
+.demo-facebook-card .demo-facebook-avatar {
+  float: left;
+}
+
+.demo-facebook-card .demo-facebook-name {
+  /* margin-left: 44px; */
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.demo-facebook-card .demo-facebook-date {
+  /* margin-left: 44px; */
+  font-size: 13px;
+  color: #8e8e93;
+}
+
+.demo-facebook-card .card-footer {
+  background: #fafafa;
+}
+
+.demo-facebook-card .card-footer a {
+  color: #81848b;
+  font-weight: 500;
+}
+
+.demo-facebook-card .card-content img {
+  display: block;
+}
+
+.demo-facebook-card .card-content-padding {
+  padding: 15px 10px;
+}
+
+.demo-facebook-card .card-content-padding .likes {
+  color: #8e8e93;
+}
+
+.pesan-diterima .profile-pesan,
+.pesan-mengirim .profile-pesan,
+.profile-wrapper .profile-name {
+  height: 40px;
+
+}
+
+.pesan-diterima .profile-pesan {
+  margin-right: 5px;
+}
+
+.pesan-mengirim .profile-pesan {
+  margin-left: 5px;
+}
+
+.pesan-mengirim .profile-wrapper {
+  /* margin-right: 20px;
+  margin-left: 5px; */
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.pesan-diterima,
+.pesan-mengirim {
+  width: 100%;
+  padding: 10px;
+  padding-right: 10px;
+}
+
+#image-profile {
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+
+.pesan-diterima .pesan-konten-wrapper,
+.pesan-mengirim .pesan-konten-wrapper {
+
+  padding: 10px;
+  max-width: 70%;
+}
+
+.release-comment {
+  font-size: 10px;
+}
+
+
+
+/* .pesan-diterima .pesan-konten-wrapper {
+  background-color: rgb(184, 184, 184);
+}
+
+.pesan-mengirim .pesan-konten-wrapper {
+  background-color: rgb(31, 99, 245);
+} */
